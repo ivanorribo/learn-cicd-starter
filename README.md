@@ -1,4 +1,4 @@
-![alt text is for smart people, not me](https://github.com/<OWNER>/<REPOSITORY>/actions/workflows/<WORKFLOW_FILE>/badge.svg)
+![alt text is for smart people, not me](https://github.com/ivanorribo/learn-cicd-starter/actions/workflows/ci/badge.svg)
 
 # learn-cicd-starter (Notely)
 
